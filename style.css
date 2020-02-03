@@ -1,0 +1,12 @@
+h1{
+    font-family: monospace;
+    font-size: 30px;
+    color: black;
+}
+p{
+    font-family: monospace;
+    font-size: 18px;
+}
+body{
+    background-color: burlywood;
+}
